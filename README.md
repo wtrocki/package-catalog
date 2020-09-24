@@ -4,14 +4,14 @@ Command Line Tool for tracking and organising node.js packages.
 
 ### Motivation
 
-Motivation for this cli is to build alternative version to package.json that will hold extra metadata that package.json doesn't allow.
+Motivation for this cli is to build alternative version to package.json that will hold extra metadata that is not possible in package.json
 
-## Why not package json file
+### Why not package json file
 
 Package.json files are designed to work with code. 
 This command focuses on cataloging packages and it will have different requirements over the time.
 
-## Usage
+### Usage
 
 ```
 npm install -g package-catalog
