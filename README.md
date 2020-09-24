@@ -4,7 +4,7 @@ Command Line Tool for tracking and organising node.js packages.
 
 ### Motivation
 
-Motivation for this cli is to build an specification.
+Motivation for this cli is to build alternative version to package.json that will hold extra metadata that package.json doesn't allow.
 
 ## Why not package json file
 
